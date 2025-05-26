@@ -1,4 +1,5 @@
 # Hi, I'm Muhammad Badraan 👋
+![Logo](./banner.png)
 
 ## My Story
 
@@ -18,24 +19,49 @@ I'm a **Full-Stack Developer** with a strong focus on the **MERN stack** and sol
 
 ## Skills
 
-- **Languages:** JavaScript, TypeScript, SQL, HTML, CSS  
-- **Frontend:** React, Next.js, Tailwind CSS, SASS, Bootstrap  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Databases:** MongoDB, MySQL  
-- **Other:** Git, Linux, Team Leadership
+- **Languages:**
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width=80 /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=80 /></a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=80 /></a>
+  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=80 /></a>
+  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=80 /></a>
+</div>
+  
+- **Frontend:**
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width=80 /></a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width=80 /></a>
+  <a href="https://tailwindcss.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=80 /></a>
+  <a href="https://sass-lang.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width=80 /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=80 /></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width=80 /></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=80 /></a>
+</div>
+
+- **Databases:**
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width=80 /></a>
+  <a href="https://www.mysql.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width=80 /></a>
+</div>
+
+- **Other:**
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <a href="https://git-scm.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width=80 /></a>
+  <a href="https://en.wikipedia.org/wiki/Linux" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width=80 /></a>
+</div>
 
 ---
 
 ## Projects
 
-- **Athar:** A full-stack application where I handled the backend, mobile app, and team coordination.  
-  🔗 [Live Link](https://athar-server-production.up.railway.app)
+- 🔗 [**Athar:**](https://athar-server-production.up.railway.app) A full-stack application where I handled the backend, mobile app, and team coordination.  
 
 ---
 
 ## Get in Touch
 
-- [LinkedIn](https://www.linkedin.com/in/badraan)  
+- [Linkedin](https://www.linkedin.com/in/badraan)  
 - [Email](mailto:badraanmo@gmail.com)  
 - Available on WhatsApp (DM for contact)
 
