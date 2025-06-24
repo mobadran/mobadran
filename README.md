@@ -35,10 +35,14 @@ I'm a **Full-Stack Developer** with a strong focus on the **MERN stack** and sol
   <a href="https://tailwindcss.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width=80 /></a>
   <a href="https://sass-lang.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width=80 /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width=80 /></a>
+</div>
+
+- **Backend:**
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width=80 /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=80 /></a>
 </div>
-
+  
 - **Databases:**
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://www.mongodb.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width=80 /></a>
