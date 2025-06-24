@@ -18,15 +18,6 @@ I'm a **Full-Stack Developer** with a strong focus on the **MERN stack** and sol
 ---
 
 ## Skills
-
-- **Languages:**
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width=80 /></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=80 /></a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width=80 /></a>
-  <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=80 /></a>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width=80 /></a>
-</div>
   
 - **Frontend:**
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
@@ -41,6 +32,7 @@ I'm a **Full-Stack Developer** with a strong focus on the **MERN stack** and sol
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <a href="https://nodejs.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width=80 /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width=80 /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width=80 /></a>
 </div>
   
 - **Databases:**
