@@ -51,15 +51,15 @@ I'm a **Full-Stack Developer** with a strong focus on the **MERN stack** and sol
 
 ## Projects
 
-- 🔗 [**Athar:**](https://athar-server-production.up.railway.app) A full-stack application where I handled the backend, mobile app, and team coordination.  
+- 🔗 [**Athar:**](https://athar-project.netlify.app) A full-stack application where I handled the backend, mobile app, and team coordination.
+- 🔗 [**Badraan's Land:**](https://badraan.is-a.dev) My Hyprland inspired portfolio with terminal like functionality.
 
 ---
 
 ## Get in Touch
 
-- [Linkedin](https://www.linkedin.com/in/badraan)  
-- [Email](mailto:badraanmo@gmail.com)  
-- Available on WhatsApp (DM for contact)
+- [Linkedin](https://www.linkedin.com/in/badraan)
+- [Email](mailto:badraanmo@gmail.com)
 
 ---
 
