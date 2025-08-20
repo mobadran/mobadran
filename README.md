@@ -13,7 +13,7 @@ At 15, I joined **WE School**, where I began to specialize in **Web Development 
 
 ## About Me
 
-I'm a **Full-Stack Developer** with a strong focus on the **MERN stack** and solid experience in **Next.js**. I also build cross-platform apps using **React Native**, which led me to be the **Mobile App Developer**, **Backend Developer**, and **Team Leader** in **Athar** project.
+I'm a **Full-Stack Developer** with a strong focus on the **MERN stack** and have experience in **Next.js**. I also build cross-platform apps using **React Native**, which led me to be the **Mobile App Developer**, **Backend Developer**, and **Team Leader** in **Athar** project.
 
 ---
 
@@ -53,6 +53,7 @@ I'm a **Full-Stack Developer** with a strong focus on the **MERN stack** and sol
 
 - 🔗 [**Athar:**](https://athar-project.netlify.app) A full-stack application where I handled the backend, mobile app, and team coordination.
 - 🔗 [**Badraan's Land:**](https://badraan.is-a.dev) My Hyprland inspired portfolio with terminal like functionality.
+- 🔗 [**Chat App:**](https://github.com/mobadran/chat-app) A simple chat app
 
 ---
 
